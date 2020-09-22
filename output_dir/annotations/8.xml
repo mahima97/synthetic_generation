@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Pirate's Booty</name>
+        <bndbox>
+            <xmin>206</xmin>
+            <xmax>406</xmax>
+            <ymin>1</ymin>
+            <ymax>141</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Doritos</name>
+        <bndbox>
+            <xmin>1</xmin>
+            <xmax>268</xmax>
+            <ymin>59</ymin>
+            <ymax>296</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Diet Coca-Cola</name>
+        <bndbox>
+            <xmin>158</xmin>
+            <xmax>426</xmax>
+            <ymin>266</ymin>
+            <ymax>382</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

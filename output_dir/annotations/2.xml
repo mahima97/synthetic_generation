@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Water</name>
+        <bndbox>
+            <xmin>395</xmin>
+            <xmax>640</xmax>
+            <ymin>16</ymin>
+            <ymax>150</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>kind_bar</name>
+        <bndbox>
+            <xmin>159</xmin>
+            <xmax>353</xmax>
+            <ymin>88</ymin>
+            <ymax>162</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Made Good</name>
+        <bndbox>
+            <xmin>42</xmin>
+            <xmax>184</xmax>
+            <ymin>1</ymin>
+            <ymax>148</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Pop Tarts</name>
+        <bndbox>
+            <xmin>369</xmin>
+            <xmax>574</xmax>
+            <ymin>241</ymin>
+            <ymax>377</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Diet Coca-Cola</name>
+        <bndbox>
+            <xmin>19</xmin>
+            <xmax>290</xmax>
+            <ymin>177</ymin>
+            <ymax>269</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

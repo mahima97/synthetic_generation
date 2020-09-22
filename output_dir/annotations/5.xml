@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Beef Stick</name>
+        <bndbox>
+            <xmin>154</xmin>
+            <xmax>320</xmax>
+            <ymin>306</ymin>
+            <ymax>406</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Water</name>
+        <bndbox>
+            <xmin>1</xmin>
+            <xmax>214</xmax>
+            <ymin>131</ymin>
+            <ymax>291</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Pirate's Booty</name>
+        <bndbox>
+            <xmin>418</xmin>
+            <xmax>640</xmax>
+            <ymin>30</ymin>
+            <ymax>250</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Kit-Kat</name>
+        <bndbox>
+            <xmin>222</xmin>
+            <xmax>350</xmax>
+            <ymin>184</ymin>
+            <ymax>321</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Peanut M&amp;Ms</name>
+        <bndbox>
+            <xmin>64</xmin>
+            <xmax>182</xmax>
+            <ymin>266</ymin>
+            <ymax>435</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Cheetos</name>
+        <bndbox>
+            <xmin>449</xmin>
+            <xmax>640</xmax>
+            <ymin>244</ymin>
+            <ymax>405</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Kit-Kat</name>
+        <bndbox>
+            <xmin>290</xmin>
+            <xmax>427</xmax>
+            <ymin>1</ymin>
+            <ymax>135</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Vitamin Water Lemonade</name>
+        <bndbox>
+            <xmin>21</xmin>
+            <xmax>263</xmax>
+            <ymin>1</ymin>
+            <ymax>106</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

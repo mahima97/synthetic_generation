@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Cheetos</name>
+        <bndbox>
+            <xmin>288</xmin>
+            <xmax>500</xmax>
+            <ymin>257</ymin>
+            <ymax>422</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

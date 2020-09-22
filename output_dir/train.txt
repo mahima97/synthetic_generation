@@ -1,0 +1,12 @@
+output_dir/images/1_none.jpg output_dir/annotations/1.xml
+output_dir/images/2_none.jpg output_dir/annotations/2.xml
+output_dir/images/3_none.jpg output_dir/annotations/3.xml
+output_dir/images/4_none.jpg output_dir/annotations/4.xml
+output_dir/images/5_none.jpg output_dir/annotations/5.xml
+output_dir/images/6_none.jpg output_dir/annotations/6.xml
+output_dir/images/7_none.jpg output_dir/annotations/7.xml
+output_dir/images/8_none.jpg output_dir/annotations/8.xml
+output_dir/images/9_none.jpg output_dir/annotations/9.xml
+output_dir/images/10_none.jpg output_dir/annotations/10.xml
+output_dir/images/11_none.jpg output_dir/annotations/11.xml
+output_dir/images/12_none.jpg output_dir/annotations/12.xml

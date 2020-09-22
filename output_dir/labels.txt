@@ -1,0 +1,22 @@
+0 __background__
+1 Beef Stick
+2 Cheetos
+3 Cheez-itz
+4 Chickpeas
+5 Coca Cola
+6 Diet Coca-Cola
+7 Doritos
+8 Famous Amos
+9 Kit-Kat
+10 Lipton
+11 Made Good
+12 Peanut M&Ms
+13 Pirate's Booty
+14 Pop Tarts
+15 QUEST
+16 Redbull
+17 Sprite
+18 Twix
+19 Vitamin Water Lemonade
+20 Water
+21 kind_bar

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Peanut M&amp;Ms</name>
+        <bndbox>
+            <xmin>295</xmin>
+            <xmax>445</xmax>
+            <ymin>182</ymin>
+            <ymax>350</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Pirate's Booty</name>
+        <bndbox>
+            <xmin>4</xmin>
+            <xmax>209</xmax>
+            <ymin>65</ymin>
+            <ymax>245</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Peanut M&amp;Ms</name>
+        <bndbox>
+            <xmin>1</xmin>
+            <xmax>149</xmax>
+            <ymin>260</ymin>
+            <ymax>439</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Sprite</name>
+        <bndbox>
+            <xmin>325</xmin>
+            <xmax>599</xmax>
+            <ymin>340</ymin>
+            <ymax>480</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

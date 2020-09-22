@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Famous Amos</name>
+        <bndbox>
+            <xmin>139</xmin>
+            <xmax>334</xmax>
+            <ymin>260</ymin>
+            <ymax>454</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>

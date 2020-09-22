@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<annotation>
+    <object>
+        <name>Peanut M&amp;Ms</name>
+        <bndbox>
+            <xmin>412</xmin>
+            <xmax>555</xmax>
+            <ymin>125</ymin>
+            <ymax>306</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Twix</name>
+        <bndbox>
+            <xmin>349</xmin>
+            <xmax>446</xmax>
+            <ymin>240</ymin>
+            <ymax>395</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Cheetos</name>
+        <bndbox>
+            <xmin>353</xmin>
+            <xmax>574</xmax>
+            <ymin>1</ymin>
+            <ymax>149</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Made Good</name>
+        <bndbox>
+            <xmin>470</xmin>
+            <xmax>582</xmax>
+            <ymin>304</ymin>
+            <ymax>474</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+    <object>
+        <name>Vitamin Water Lemonade</name>
+        <bndbox>
+            <xmin>77</xmin>
+            <xmax>310</xmax>
+            <ymin>318</ymin>
+            <ymax>480</ymax>
+        </bndbox>
+        <difficult>0</difficult>
+    </object>
+</annotation>
